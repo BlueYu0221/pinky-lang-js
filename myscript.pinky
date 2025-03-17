@@ -1,0 +1,15 @@
+
+-- 1111
+
+a := 11
+b := 22
+
+func add(aa, bb)
+    sum := aa + bb
+    -- println sum
+    ret sum
+end
+
+cc := add(a, b)
+
+println('cc='+cc)
